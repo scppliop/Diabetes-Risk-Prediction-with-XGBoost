@@ -1,6 +1,4 @@
 # Diabetes-Risk-Prediction-with-XGBoost
-# 🏥 Diabetes Risk Prediction with XGBoost
-
 **Analysis Date:** November 2025
 
 ---
